@@ -1,0 +1,17 @@
+{
+"companyName": "Shaker Games",
+"productName": "Hyper Looper",
+"productVersion": "0.1",
+"dataUrl": "Hyper Loop.data.unityweb",
+"wasmCodeUrl": "Hyper Loop.wasm.code.unityweb",
+"wasmFrameworkUrl": "Hyper Loop.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Hyper Loop.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.5f1"
+}
