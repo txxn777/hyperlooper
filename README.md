@@ -1,10 +1,19 @@
 # hyperlooper
-Our submission for hyperjam game jam
+Our winning submission for IZTECH Hyperjam Game Jam
 
 itch.io link: https://txxn777.itch.io/hyperlooper
 
-## Made by:
-Oktay Türkdağlı
-Berhan Türkü Ay
-Gökhan Göksel Elpeze
-Murat Taylan Şahin
+Game demo can be accessed at this link: https://txxn777.github.io/hyperlooper/
+
+The game is designed for mobile devices.
+
+## Created by:
+Oktay Türkdağlı, Developer
+
+Berhan Türkü Ay, Developer
+
+Gökhan Göksel Elpeze, Developer
+
+Murat Taylan Şahin, Designer
+
+Special thanks to Uygar Uyğun for the soundtrack.
